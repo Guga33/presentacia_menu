@@ -64,5 +64,5 @@ nav ul ul li {
 li > a:after { content:  ' ▼'; }
 li > a:only-child:after { content: ''; }
 h1 span {
-	color: #FF4649;
+	color: rgb(98, 0, 255);
 }
